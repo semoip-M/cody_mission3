@@ -27,7 +27,7 @@ python main.py
 0 1 0
 1 0 1
 ```
-[모드1의 Terminal에서의 결과]()
+[모드1의 Terminal에서의 결과](https://github.com/semoip-M/cody_mission3/blob/main/screenshots/%EB%AA%A8%EB%93%9C1_%EC%A7%81%EC%A0%91%EC%9E%85%EB%A0%A5%EA%B2%B0%EA%B3%BC.png)
 
 
 ## 파일 구조
@@ -58,8 +58,8 @@ JSON의 `filters.size_N`에는 `cross`, `x` 필터가 있습니다. `patterns.si
 | size_25_1 | 4.9 | 4.899999999999999 | UNDECIDED | X | FAIL |
 | size_25_2 | 52.9 | 0.1 | Cross | Cross | PASS |
 
-[모드1의 Terminal에서의 결과1]()
-[모드1의 Terminal에서의 결과2]()
+[모드1의 Terminal에서의 결과1](https://github.com/semoip-M/cody_mission3/blob/main/screenshots/%EB%AA%A8%EB%93%9C2_json%ED%8C%8C%EC%9D%BC%EB%B6%84%EC%84%9D1.png)
+[모드1의 Terminal에서의 결과2](https://github.com/semoip-M/cody_mission3/blob/main/screenshots/%EB%AA%A8%EB%93%9C2_json%ED%8C%8C%EC%9D%BC%EB%B6%84%EC%84%9D2.png)
 
 ### 실패 원인 분석
 
