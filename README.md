@@ -27,6 +27,8 @@ python main.py
 0 1 0
 1 0 1
 ```
+[모드1의 Terminal에서의 결과]()
+
 
 ## 파일 구조
 
@@ -55,6 +57,9 @@ JSON의 `filters.size_N`에는 `cross`, `x` 필터가 있습니다. `patterns.si
 | size_13_2 | 7.499999999999997 | 7.5 | UNDECIDED | Cross | FAIL |
 | size_25_1 | 4.9 | 4.899999999999999 | UNDECIDED | X | FAIL |
 | size_25_2 | 52.9 | 0.1 | Cross | Cross | PASS |
+
+[모드1의 Terminal에서의 결과1]()
+[모드1의 Terminal에서의 결과2]()
 
 ### 실패 원인 분석
 
